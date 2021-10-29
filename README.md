@@ -1,5 +1,5 @@
 # suibiantt
-<a href="#"><img src="https://github.com/yialexlee/suibiantt/blob/main/example.pngk" width="50%" height="50%"></a>
+<img src="https://github.com/yialexlee/suibiantt/blob/main/example.png" width="50%" height="50%">
 
 
 A simple online music playlist stream app
