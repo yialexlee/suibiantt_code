@@ -1,5 +1,5 @@
 # suibiantt
-![Cover](https://github.com/yialexlee/suibiantt/blob/main/example.png)
+![image](https://github.com/yialexlee/suibiantt/blob/main/example.png)
 
 A simple online music playlist stream app
 
