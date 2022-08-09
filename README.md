@@ -4,4 +4,4 @@
 
 A simple online music playlist stream app
 
-Suibiantt : https://yialexlee.tech/suibiantt
+Suibiantt : https://yialexlee.com/suibiantt
